@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Painting #1",
+    "price": "0.05",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmTTRR292ciMea3VDi8nFwdEVWsf3JZRYQcjAVKeBcco1J",
+    "description": "A wonderful painting for only 0.05 USDC!",
+    "filename": "art.zip",
+    "hash": "QmRrMBA8je7jRJbFsmZt4WQkgYJrxk2maYkHX6WBdBpcYM"
+  },
+  {
+    "id": 2,
+    "name": "Painting #2",
+    "price": "0.5",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmUJW8ftWrhdEUxFwWot6tt2mcCGBf9Xx3yb7mkpmPuQGe",
+    "description": "A rare piece for only 0.5 USDC.",
+    "filename": "art1.zip",
+    "hash": "QmZz9gYgVKUT1oBibYGptsdz1MMA2xEGZ3XtB7w9oKBzT9"
+  },
+  {
+    "id": 3,
+    "name": "Painting #3",
+    "price": "0.1",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmcUasoDXP7gmXqaRoPmqZVno1YX17eFKsiCuHkS2dfKcU",
+    "description": "A timeless classic. Only 0.1 USDC.",
+    "filename": "art2.zip",
+    "hash": "QmbREiKoPyamDWdXfSeCmRDD5iwL5WpxPXPMDzEcsabJLB"
+  },
+  {
+    "id": 4,
+    "name": "Painting",
+    "price": "0.1",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmTTRR292ciMea3VDi8nFwdEVWsf3JZRYQcjAVKeBcco1J",
+    "description": "a painting",
+    "filename": "art1.zip",
+    "hash": "QmZz9gYgVKUT1oBibYGptsdz1MMA2xEGZ3XtB7w9oKBzT9"
+  },
+  {
+    "id": 5,
+    "name": "painting",
+    "price": "0.2",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmUJW8ftWrhdEUxFwWot6tt2mcCGBf9Xx3yb7mkpmPuQGe",
+    "description": "hello this is a description of one of the paintings in the listing",
+    "filename": "art2.zip",
+    "hash": "QmbREiKoPyamDWdXfSeCmRDD5iwL5WpxPXPMDzEcsabJLB"
+  },
+  {
+    "id": 10,
+    "name": "this is a name produ",
+    "price": "",
+    "image_url": "",
+    "description": "asdasd hthis sis alksd djweklr sndks wkeww wkjkw wkw www w a w. rkajsk"
+  }
+]
